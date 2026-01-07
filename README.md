@@ -80,6 +80,30 @@ This project mirrors real-world healthcare analytics workflows by:
 - Communicating results clearly with visuals and documentation
 
 ---
+---
+
+## Visual Evidence (Screenshots)
+
+Screenshots demonstrating analysis steps and validation across tools are available below:
+
+- 📊 **Excel Screenshots**  
+  `07_Screenshots/Excel`
+
+- 🧮 **SQL Screenshots**  
+  `07_Screenshots/SQL`
+
+- 🐍 **Python Screenshots**  
+  `07_Screenshots/Python`
+
+- 📈 **Tableau Screenshots**  
+  `07_Screenshots/Tableau`
+
+Each section includes visual proof of:
+- Data loading and cleaning
+- Transformations and aggregations
+- Visualizations
+- Cross-tool validation of insights
+
 
 ## Author
 **Suman Teja Muchunoori**  
