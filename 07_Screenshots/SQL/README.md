@@ -1,6 +1,6 @@
 # SQL Analysis Screenshots
 
-This section contains SQL query execution screenshots used to validate healthcare cost drivers.
+This section presents SQL query execution screenshots used to validate healthcare cost drivers.
 
 ---
 
@@ -16,7 +16,7 @@ Validates total number of records in the dataset after loading.
 
 Shows average healthcare cost grouped by age categories.
 
-![Avg Cost by Age Group](SQL_Avg_Cost_By_Age_Group.png)
+![Average Cost by Age Group](SQL_Avg_Cost_By_Age_Group.png)
 
 ---
 
@@ -24,7 +24,7 @@ Shows average healthcare cost grouped by age categories.
 
 Compares average healthcare cost between smokers and non-smokers.
 
-![Avg Cost by Smoker](SQL_Avg_Cost_By_Smoker.png)
+![Average Cost by Smoker](SQL_Avg_Cost_By_Smoker.png)
 
 ---
 
